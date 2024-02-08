@@ -1,6 +1,6 @@
 
 
-
+// funcion que multiplica y divide 2 numeros y muestra el resultado
 function mensaje() {
     alert('PROGRAMA QUE INGRESA 2 NUMEROS Y muestra el resultado de su division y de su multiplicacion');    
     
